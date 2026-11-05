@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <!-- Orbit brand mark, theme D: planet, tilted ring and satellite on yellow. -->
+  <rect x="14" y="14" width="104" height="104" rx="22" fill="#111111"/>
+  <rect x="8" y="8" width="104" height="104" rx="22" fill="#FFD43B" stroke="#111111" stroke-width="6"/>
+  <g transform="translate(60 60)">
+    <circle r="17" fill="#111111"/>
+    <ellipse rx="37" ry="17" fill="none" stroke="#111111" stroke-width="7" transform="rotate(-30)"/>
+    <circle cx="32" cy="-18.5" r="8.5" fill="#111111"/>
+  </g>
+</svg>

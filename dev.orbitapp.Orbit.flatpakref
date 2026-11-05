@@ -1,0 +1,9 @@
+[Flatpak Ref]
+Name=dev.orbitapp.Orbit
+Branch=stable
+Title=Orbit
+Url=https://rhishikeshjeya-design.github.io/orbit-releases/repo/
+SuggestRemoteName=orbit
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
+IsRuntime=false
+GPGKey=mDMEaux+mhYJKwYBBAHaRw8BAQdA42rfzVEIkIcenn9hDsV3KJSbyYRKSS1yHB+TdgC7RsW0GE9yYml0IEZsYXRwYWsgcmVwb3NpdG9yeYiQBBMWCgA4FiEEzxVGAUYImh6i/IEVLHcGSehMjn0FAmrsfpoCGwMFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQLHcGSehMjn3OUAD/biqJ6a28smLAnIqKgJvja68CTObiAwOCs8f4AEU65fMBAPq+iOI9953kuypU1pk15QYlGErbPZw2WMeL321qrfsC
